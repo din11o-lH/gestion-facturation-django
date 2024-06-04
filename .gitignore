@@ -20,9 +20,6 @@ venv.bak/
 __pycache__/
 db.sqlite3
 
-# Static and media files
-/static/
-/media/
 
 # Django migrations
 */migrations/
