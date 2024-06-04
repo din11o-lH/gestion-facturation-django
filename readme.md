@@ -91,6 +91,7 @@ Représente un article dans une facture.
 6. Lancez le serveur de développement :
 
     ```bash
+    npm run build:css
     python manage.py runserver
     ```
 
